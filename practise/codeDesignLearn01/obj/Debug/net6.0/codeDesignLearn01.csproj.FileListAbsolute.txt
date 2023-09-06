@@ -1,0 +1,15 @@
+D:\university_practise\EduDesign\codeDesignLearn01\bin\Debug\net6.0\codeDesignLearn01.exe
+D:\university_practise\EduDesign\codeDesignLearn01\bin\Debug\net6.0\codeDesignLearn01.deps.json
+D:\university_practise\EduDesign\codeDesignLearn01\bin\Debug\net6.0\codeDesignLearn01.runtimeconfig.json
+D:\university_practise\EduDesign\codeDesignLearn01\bin\Debug\net6.0\codeDesignLearn01.dll
+D:\university_practise\EduDesign\codeDesignLearn01\bin\Debug\net6.0\codeDesignLearn01.pdb
+D:\university_practise\EduDesign\codeDesignLearn01\obj\Debug\net6.0\codeDesignLearn01.csproj.AssemblyReference.cache
+D:\university_practise\EduDesign\codeDesignLearn01\obj\Debug\net6.0\codeDesignLearn01.GeneratedMSBuildEditorConfig.editorconfig
+D:\university_practise\EduDesign\codeDesignLearn01\obj\Debug\net6.0\codeDesignLearn01.AssemblyInfoInputs.cache
+D:\university_practise\EduDesign\codeDesignLearn01\obj\Debug\net6.0\codeDesignLearn01.AssemblyInfo.cs
+D:\university_practise\EduDesign\codeDesignLearn01\obj\Debug\net6.0\codeDesignLearn01.csproj.CoreCompileInputs.cache
+D:\university_practise\EduDesign\codeDesignLearn01\obj\Debug\net6.0\codeDesignLearn01.dll
+D:\university_practise\EduDesign\codeDesignLearn01\obj\Debug\net6.0\refint\codeDesignLearn01.dll
+D:\university_practise\EduDesign\codeDesignLearn01\obj\Debug\net6.0\codeDesignLearn01.pdb
+D:\university_practise\EduDesign\codeDesignLearn01\obj\Debug\net6.0\codeDesignLearn01.genruntimeconfig.cache
+D:\university_practise\EduDesign\codeDesignLearn01\obj\Debug\net6.0\ref\codeDesignLearn01.dll
